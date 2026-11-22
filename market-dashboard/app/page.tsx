@@ -1,0 +1,1 @@
+import {marketData} from "../lib/market";import Dashboard from "./dashboard";export const runtime="nodejs";export const revalidate=86400;export default async function Home(){const data=await marketData();return <Dashboard data={data}/>}
