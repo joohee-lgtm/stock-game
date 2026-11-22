@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "build:worker": "opennextjs-cloudflare build",
+    "deploy:worker": "opennextjs-cloudflare deploy"
   },
   "dependencies": {
     "next": "^15.5.0",
@@ -17,6 +19,8 @@
     "typescript": "^5.9.2",
     "@types/node": "^22.18.0",
     "@types/react": "^19.1.0",
-    "@types/react-dom": "^19.1.0"
+    "@types/react-dom": "^19.1.0",
+    "@opennextjs/cloudflare": "^1.10.0",
+    "wrangler": "^4.45.0"
   }
 }
