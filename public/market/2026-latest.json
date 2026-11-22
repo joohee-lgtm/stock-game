@@ -1,0 +1,19 @@
+{
+  "asOf": "2026-11-20",
+  "kospi": {
+    "close": 4869.96
+  },
+  "nasdaq": {
+    "close": 22617.73
+  },
+  "cnnFearGreed": {
+    "last": 9.67368421052632,
+    "monthToDateAverage": 27.8,
+    "observations": 15
+  },
+  "sources": [
+    "https://apnews.com/article/c10b797a17c2acf37924d834efebe135",
+    "https://m.ajupress.com/view/20261120215270768",
+    "https://github.com/whit3rabbit/fear-greed-data"
+  ]
+}

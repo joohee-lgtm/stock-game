@@ -1,6 +1,6 @@
 {
   "source": "https://github.com/BenBrady1/Market_Analysis/blob/main/macro-market-analysis/Data/NASDAQCOM.csv",
-  "lastAvailable": "2026-10-30",
+  "lastAvailable": "2026-11-20",
   "series": [
     {
       "month": "2021.02",
@@ -176,7 +176,13 @@
       "month": "2026.10",
       "nasdaq": 25437,
       "nasdaqDate": "2026-10-30"
+    },
+    {
+      "month": "2026.11",
+      "nasdaq": 22617.73,
+      "nasdaqDate": "2026-11-20"
     }
   ],
-  "additionalSource": "https://www.statmuse.com/money/ask/nasdaq-month-end-closing-prices-for-each-month-in-2026"
+  "additionalSource": "https://www.statmuse.com/money/ask/nasdaq-month-end-closing-prices-for-each-month-in-2026",
+  "latestSnapshotSource": "https://apnews.com/article/c10b797a17c2acf37924d834efebe135"
 }
